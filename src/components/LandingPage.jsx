@@ -48,7 +48,8 @@ export default function LandingPage() {
           <div className="w-full flex justify-center">
             <img
               src={Logo}
-              alt="Logo"
+              alt="Logo representativo de la marca Plomeria Cacho | Gasista matriculado Camuzzi Mar del Plata"
+              fetchpriority="high"
               className="h-auto max-h-96 drop-shadow-[4px_4px_6px_rgba(0,0,0,0.7)]"
             />
           </div>
